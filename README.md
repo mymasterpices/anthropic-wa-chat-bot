@@ -1,4 +1,4 @@
-# RKJ WhatsApp Concierge Bot
+# WhatsApp Concierge Bot
 
 Customer-facing WhatsApp chatbot for RK Jewellers, South Extension Part II,
 New Delhi. Handles inquiries, curates pieces from live inventory, shares
@@ -35,7 +35,7 @@ tests/test_core.py                17 checks against the real DB
 ## Setup
 
 1. **Meta (manual, Rohan):** Business account → WhatsApp Business API app →
-   test phone number (NOT the main RKJ line) → note `PHONE_NUMBER_ID`,
+   test phone number (NOT the main line) → note `PHONE_NUMBER_ID`,
    permanent system-user token, app secret.
 2. `cp .env.example .env` and fill in every value.
 3. `pip install -r requirements.txt`
