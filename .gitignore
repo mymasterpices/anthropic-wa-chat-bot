@@ -1,0 +1,26 @@
+
+data/sessions.db
+data/rkj_inventory.db
+
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+venv/
+__pycache__/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python

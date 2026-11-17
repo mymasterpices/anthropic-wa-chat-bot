@@ -1,0 +1,9 @@
+{
+  "rates_per_gram": {
+    "24": 8000,
+    "22": 7350,
+    "18": 6000,
+    "14": 4700
+  },
+  "updated_at": "PLACEHOLDER — set real rates before launch (update_rates.py or /admin/rates)"
+}
